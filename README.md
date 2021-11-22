@@ -2,10 +2,10 @@ Purpose
 ====
 ### 한국교통대학교 IDF 에서 진행하는 ITS 공부를 위해 작성됨
 
-Using Language
+Using Language / Tool
 ====
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
-
+[![Google Colab](https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white)]()
 what i study in this project
 ====
 - Python language
