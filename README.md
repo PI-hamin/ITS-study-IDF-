@@ -5,7 +5,7 @@ Purpose
 Using Language / Tool
 ====
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
-[![Google Colab](https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white)]()
+[![GoogleColab](https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)]()
 what i study in this project
 ====
 - Python language
